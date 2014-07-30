@@ -1,0 +1,2 @@
+<INCLUDE_TYPOSCRIPT:source="FILE: EXT:pde_distribution/Configuration/TypoScript/Setup/page.ts">
+<INCLUDE_TYPOSCRIPT:source="FILE: EXT:pde_distribution/Configuration/TypoScript/Setup/libs.ts">
